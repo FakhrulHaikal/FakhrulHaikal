@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FakhrulHaikal
-- 👀 I’m interested in Game Programming
+- 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on making games
 - 📫 How to reach me ... Email me -> heikrulpang@gmail.com
